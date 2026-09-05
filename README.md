@@ -186,6 +186,19 @@ Development Tools
 
 ---
 
+## 🖥️ Screenshots
+
+### Output Image
+![Output Image](screenshots/ResQBridge Output image.png)
+
+---
+
+### 🎥 Demo Video
+
+[▶️ Watch Our Demo](https://drive.google.com/file/d/1yUSOJYF6NTS9HKU8BFZ-HlM6-sWNTTFR/view?usp=drivesdk)
+
+---
+
 ### 🎯 Target Users
 
 🚑 Disaster Management Teams
