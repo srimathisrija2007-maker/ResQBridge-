@@ -190,7 +190,6 @@ Development Tools
 
 ### Output Image
 ![Output Image](screenshots/ResQBridge Output image.png)
-
 ---
 
 ### 🎥 Demo Video
